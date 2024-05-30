@@ -19,7 +19,7 @@ Generally, resources belong here if they:
 
 Human-made content which enriches rather than distracts.
 
-### :newspaper: News
+### 📰 News
 
 - [The New York Times](https://www.nytimes.com/)
 
@@ -30,13 +30,17 @@ Human-made content which enriches rather than distracts.
 
 ### 📺 Videos
 
-- [Nebula](https://nebula.tv/): Ad-free platform supporting human creators
+- [Nebula](https://nebula.tv/): Ad-free platform which supports creators
 
 ## 🔎 Search Engines
 
 Search engines which help find what you're looking for instead of serving advertisers.
 
 - [Kagi](https://kagi.com/)
+
+## 🌎 Browsers
+
+- [Brave](https://brave.com/): Desktop and mobile browser with built-in adblocker
 
 ## 🧩 Browser Extensions
 
